@@ -1,0 +1,118 @@
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\WebFrases.dll.config
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\WebFrases.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\WebFrases.pdb
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\csc.exe
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\csc.exe.config
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\csc.rsp
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\csi.exe
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\csi.exe.config
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\csi.rsp
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.AppContext.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Console.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.IO.Compression.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Net.Http.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.ValueTuple.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\vbc.exe
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\vbc.exe.config
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\vbc.rsp
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\VBCSCompiler.exe
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kleis\source\repos\WebFrases\WebFrases\obj\Debug\WebFrases.csproj.AssemblyReference.cache
+C:\Users\kleis\source\repos\WebFrases\WebFrases\obj\Debug\WebFrases.csproj.CoreCompileInputs.cache
+C:\Users\kleis\source\repos\WebFrases\WebFrases\obj\Debug\WebFrases.dll
+C:\Users\kleis\source\repos\WebFrases\WebFrases\obj\Debug\WebFrases.pdb
+C:\Users\kleis\source\repos\WebFrases\WebFrases\obj\Debug\WebFrases.csproj.CopyComplete
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\WebFrases.dll.config
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\WebFrases.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\WebFrases.pdb
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\csc.exe
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\csc.exe.config
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\csc.rsp
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\csi.exe
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\csi.exe.config
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\csi.rsp
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.AppContext.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Collections.Immutable.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Console.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Globalization.Calendars.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.IO.Compression.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.IO.FileSystem.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Net.Http.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Net.Sockets.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Reflection.Metadata.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.ValueTuple.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Xml.XPath.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\vbc.exe
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\vbc.exe.config
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\vbc.rsp
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\VBCSCompiler.exe
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\roslyn\VBCSCompiler.exe.config
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Curso\Projetos WebService\WebFrases\WebFrases\obj\Debug\WebFrases.csproj.AssemblyReference.cache
+C:\Curso\Projetos WebService\WebFrases\WebFrases\obj\Debug\WebFrases.csproj.CoreCompileInputs.cache
+C:\Curso\Projetos WebService\WebFrases\WebFrases\obj\Debug\WebFrases.csproj.CopyComplete
+C:\Curso\Projetos WebService\WebFrases\WebFrases\obj\Debug\WebFrases.dll
+C:\Curso\Projetos WebService\WebFrases\WebFrases\obj\Debug\WebFrases.pdb

@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaMestre.master.cs" Inherits="WebFrases.PaginaMestre" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Back-end Frases Famosas</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="CSS/Estilos.css" />
+    <script type="text/javascript" src="JavaScriptFunctions.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/IMAGENS/SISTEMA/logo-normal.png" CssClass="linkhome" />         
+            <nav>
+                <h1>Crie sites ASP.NET (webforms) utilizando C#</h1>
+                <asp:HyperLink ID="h1Home" runat="server" CssClass="linkBotoes" NavigateUrl="~/Default.aspx">Home</asp:HyperLink>
+                <asp:HyperLink ID="h1Usuario" runat="server" CssClass="linkBotoes" NavigateUrl="~/Usuario.aspx">Usuários</asp:HyperLink>
+                <asp:HyperLink ID="h1Autor" runat="server" CssClass="linkBotoes" NavigateUrl="~/Autor.aspx">Autores</asp:HyperLink>
+                <asp:HyperLink ID="h1Frase" runat="server" CssClass="linkBotoes" NavigateUrl="~/Frase.aspx">Frases</asp:HyperLink>
+                <asp:HyperLink ID="h1Categoria" runat="server" CssClass="linkBotoes" NavigateUrl="~/Categoria.aspx">Categorias</asp:HyperLink>
+                <asp:HyperLink ID="hlSair" runat="server" CssClass="linkBotoes" NavigateUrl="~/Login.aspx">Sair</asp:HyperLink>
+            </nav>
+        </header>
+        <main>
+            <div>
+                <div>
+                    <div id="cxFloatMsg" class ="cxFloatMsg" onclick="HideMsg()">
+                        <h2 id="msgTitulo">A mensagem irá aparecer aqui</h2>
+                        <p id="msgTexto">A mensagem irá aparecer aqui</p>
+
+                    </div>
+                </div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </main>
+        <footer>
+            <p>Back-end Frases Famosas - Site voltado para o administrador do sistema</p>
+            <p>Site desenvolvido por <a href="https://www.linkedin.com/in/edcleison-morais-059658178/">Cleison</a></p>
+        </footer>
+    
+    </form>
+</body>
+</html>
